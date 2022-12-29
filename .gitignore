@@ -32,3 +32,5 @@ override.tf.json
 #
 /.idea/
 /lambda-go/build/bin/
+**/.terraform.lock.hcl
+**/*.pem
