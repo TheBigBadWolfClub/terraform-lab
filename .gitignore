@@ -30,7 +30,8 @@ override.tf.json
 
 
 #
+.fleet/
 /.idea/
-/lambda-go/build/bin/
+/aws-playground/lambda-go/build/bin/
 **/.terraform.lock.hcl
 **/*.pem
